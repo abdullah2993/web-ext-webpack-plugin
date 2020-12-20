@@ -8,7 +8,7 @@ npm install --save-dev @abdullah2993/web-ext-webpack-plugin
 
 **webpack.config.js**
 ```js
-const WebExtWebpackPlugin = require('web-ext-webpack-plugin');
+const WebExtWebpackPlugin = require('@abdullah2993/web-ext-webpack-plugin');
 
 module.exports = {
   plugins: [
